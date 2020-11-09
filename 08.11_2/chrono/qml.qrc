@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SimplePpage.qml</file>
+        <file>StartPage.qml</file>
+        <file>ActiveTaskPage.qml</file>
+    </qresource>
+</RCC>
